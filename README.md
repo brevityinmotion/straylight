@@ -9,4 +9,4 @@ Success in security, hacking, and puzzles all require creativity, ambition, curi
 Let's solve this together!
 
 Accelerator 1: External IP domain reconnaissance and attack surface visualization in under 2 minutes.
-- The blog post provides a walkthrough of the process. The corresponding source code and Jupyter notebooks are contained within this repository to replicate the capability.
+- The blog post can be accessed at https://medium.com/@brevityinmotion/external-ip-domain-reconnaissance-and-attack-surface-visualization-in-under-2-minutes-b2ab06105def?sk=45a029919647bd3214e6dd1e8526ca25. It provides a walkthrough of the process. The corresponding source code and Jupyter notebooks are contained within this repository to replicate the capability.
