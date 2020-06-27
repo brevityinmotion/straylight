@@ -1,4 +1,4 @@
-# straylight
+# project straylight
 
 The intent of the straylight project is to introduce a series of accelerators that can help security researchers and companies improve their information security capabilities. 
 
