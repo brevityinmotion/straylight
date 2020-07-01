@@ -13,3 +13,6 @@ Accelerator 0: Introduction - Project Straylight - Security Accelerators, Mentor
 
 Accelerator 1: External IP domain reconnaissance and attack surface visualization in under 2 minutes.
 - The blog post can be accessed at https://medium.com/@brevityinmotion/external-ip-domain-reconnaissance-and-attack-surface-visualization-in-under-2-minutes-b2ab06105def?sk=45a029919647bd3214e6dd1e8526ca25. It provides a walkthrough of the process. The corresponding source code and Jupyter notebooks are contained within this repository to replicate the capability.
+
+Accelerator 2: Elevating your career through scientific computing and the cloud
+- This is the presentation given during the @VillageRedTeam and @texas_cyber June'gle 2020 (https://www.youtube.com/watch?v=5d2c8-e6klE). The presentation slides are in this repo at https://github.com/brevityinmotion/straylight/blob/master/2020-Junegle-RyanElkins.pdf. Thank you for the opportunity @santosomar and @cedoxX! Make sure to check out and subscribe to the Red Team Village Youtube channel to watch more great presentations! 
