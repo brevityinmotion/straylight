@@ -48,7 +48,7 @@ These resources, presentations, blogs, and training have been instrumental in my
 * [AWS Geek - Jerry Hargrove](https://www.awsgeek.com) - I may seriously have to print tshirts of all of your diagrams now that conferences are mostly virtual and my tshirt intake is declining. - [@awsgeek](https://twitter.com/awsgeek)
 * [AWS Well Architected](https://aws.amazon.com/architecture/well-architected/) - [@awscloud](https://twitter.com/awscloud)
 
-### Standards, Baselines, and Controls to leverage</h2>
+### Standards, Baselines, and Controls</h2>
 * [NIST cybersecurity framework (CSF)](https://www.nist.gov/cyberframework) - [@NIST](https://twitter.com/NIST)
 * [NIST 800-53](https://nvd.nist.gov/800-53/Rev4)
 * [ISO 27002 controls](http://www.iso27001security.com/html/27002.html) - this requires purchase
