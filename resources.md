@@ -37,6 +37,7 @@ These resources, presentations, blogs, and training have been instrumental in my
   * [Bug Bounty Hunting Methodology v2](https://www.youtube.com/watch?v=C4ZHAdI8o1w)
   * [Bug Bounty Hunting Methodology v3](https://www.youtube.com/watch?v=Qw1nNPiH_Go)
   * [Bug Bounty Hunting Methodology v4](https://www.youtube.com/watch?v=p4JgIu1mceI)
+* [The Twelve-Factor App](https://12factor.net/) - Adam Wiggins - [@hirodusk](https://twitter.com/hirodusk)
 
 ### Cloud Security Resources
 * [Cloud Security Alliance](https://cloudsecurityalliance.org)
