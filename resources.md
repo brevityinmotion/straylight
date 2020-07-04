@@ -71,8 +71,9 @@ These resources, presentations, blogs, and training have been instrumental in my
 ### Security Architecture
 * [SABSA](https://sabsa.org/)
 
-### Detect/Respond/Forensics
+### Detect/Respond/Forensics/Reverse Engineering
 * [Mitre ATT&CK](https://attack.mitre.org/) - [@MITREattack](https://twitter.com/MITREattack)
+* [Malware Unicorn](https://malwareunicorn.org/) - Amanda Rousseau - [@malwareunicorn](https://twitter.com/malwareunicorn)
 * [Lenny Zeltser](https://zeltser.com/blog/) - [@lennyzeltser](https://twitter.com/lennyzeltser)
 
 ### Training
