@@ -45,6 +45,7 @@ These resources, presentations, blogs, and training have been instrumental in my
   * [Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/research/cloud-controls-matrix/)
   * [Consensus Assessments Initiative Questionnaire (CAIQ)](https://cloudsecurityalliance.org/artifacts/caiq-translation-in-10-languages/)
 * [Summit Route](https://summitroute.com/) - Scott Piper - Blog, Twitter, and Projects - [@0xdabbad00](https://twitter.com/0xdabbad00)
+* [CloudSecList](https://cloudseclist.com/) - Make sure to subscribe to the weekly reading list. - [@lancinimarco](https://twitter.com/lancinimarco)
 * [AWS Geek - Jerry Hargrove](https://www.awsgeek.com) - I may seriously have to print tshirts of all of your diagrams now that conferences are mostly virtual and my tshirt intake is declining. - [@awsgeek](https://twitter.com/awsgeek)
 * [AWS Well Architected](https://aws.amazon.com/architecture/well-architected/) - [@awscloud](https://twitter.com/awscloud)
 
@@ -87,6 +88,7 @@ These resources, presentations, blogs, and training have been instrumental in my
 * [PentesterLab](https://pentesterlab.com/) - [@PentesterLab](https://twitter.com/PentesterLab)
 
 ### General Security Topics and News
+* [Daniel Miessler - The Unsupervised Learning Newsletter](https://danielmiessler.com/newsletter/) - [@DanielMiessler](https://twitter.com/DanielMiessler)
 * [Black Hills InfoSec](https://www.blackhillsinfosec.com/) - [@BHinfoSecurity](https://twitter.com/BHinfoSecurity) and [@strandjs](https://twitter.com/strandjs)
 * [TrustedSec blog](https://www.trustedsec.com/blog/) - [@TrustedSec](https://twitter.com/TrustedSec) and [@HackingDave](https://twitter.com/HackingDave)
 * [KrebsOnSecurity](https://krebsonsecurity.com/) - Brian Krebs - [@briankrebs](https://twitter.com/briankrebs)
