@@ -76,6 +76,7 @@ These resources, presentations, blogs, and training have been instrumental in my
 * [Mitre ATT&CK](https://attack.mitre.org/) - [@MITREattack](https://twitter.com/MITREattack)
 * [Malware Unicorn](https://malwareunicorn.org/) - Amanda Rousseau - [@malwareunicorn](https://twitter.com/malwareunicorn)
 * [Lenny Zeltser](https://zeltser.com/blog/) - [@lennyzeltser](https://twitter.com/lennyzeltser)
+* [Leslie Carhart - tisiphone.net](https://tisiphone.net/) - [@hacks4pancakes](https://twitter.com/hacks4pancakes)
 
 ### Training
 * [NICE Framework](https://niccs.us-cert.gov/workforce-development/cyber-security-workforce-framework) - This is the best resource that I am aware of for explaining cyber security careers.
