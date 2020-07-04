@@ -21,4 +21,4 @@ Let's solve this together!
 * [Information Security - Learning Resources](https://github.com/brevityinmotion/straylight/blob/master/resources.md) - This is a listing of my top security resources that I have leveraged across the past decade - 
 
 ### Accelerator 4: Search the html across 25 billion websites for passive reconnaissance using common crawl
-* The bblog post can be accessed at https://medium.com/@brevityinmotion/search-the-html-across-25-billion-websites-for-passive-reconnaissance-using-common-crawl-7fe109250b83?sk=5b8b4a7c506d5acba572c0b30137f7aa. It provides a walkthrough of the process. The corresponding source code and Jupyter notebooks are contained within this repository to replicate the capability.
+* The blog post can be accessed at https://medium.com/@brevityinmotion/search-the-html-across-25-billion-websites-for-passive-reconnaissance-using-common-crawl-7fe109250b83?sk=5b8b4a7c506d5acba572c0b30137f7aa. It provides a walkthrough of the process. The corresponding source code and Jupyter notebooks are contained within this repository to replicate the capability.
