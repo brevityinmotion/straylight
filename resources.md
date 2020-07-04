@@ -58,7 +58,7 @@ These resources, presentations, blogs, and training have been instrumental in my
 * [Common Vulnerability Scoring System (CVSS)](https://www.first.org/cvss/)
 
 ### Conferences
-* [fwdcloudsec](https://fwdcloudsec.org/) - [@fwdcloudsec](https://twitter.com/fwdcloudsec)
+* [fwd:cloudsec](https://fwdcloudsec.org/) - [@fwdcloudsec](https://twitter.com/fwdcloudsec)
 * [defcon](https://defcon.org/) - [@defcon](https://twitter.com/defcon)
 * [BlackHat](https://www.blackhat.com/) - [@BlackHatEvents](https://twitter.com/BlackHatEvents)
 * [BSides](http://www.securitybsides.com/) - Various cities
