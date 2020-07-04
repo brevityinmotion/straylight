@@ -44,7 +44,7 @@ These resources, presentations, blogs, and training have been instrumental in my
   * [Cloud Security Guidance](https://cloudsecurityalliance.org/research/guidance/)
   * [Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/research/cloud-controls-matrix/)
   * [Consensus Assessments Initiative Questionnaire (CAIQ)](https://cloudsecurityalliance.org/artifacts/caiq-translation-in-10-languages/)
-* [Summit Route](https://summitroute.com/) - Scott Piper - Blog, Twitter, and Projects - [@0xdabbad00](https://twitter.com/0xdabbad00) and [@fwdcloudsec](https://twitter.com/fwdcloudsec)
+* [Summit Route](https://summitroute.com/) - Scott Piper - Blog, Twitter, and Projects - [@0xdabbad00](https://twitter.com/0xdabbad00)
 * [AWS Geek - Jerry Hargrove](https://www.awsgeek.com) - I may seriously have to print tshirts of all of your diagrams now that conferences are mostly virtual and my tshirt intake is declining. - [@awsgeek](https://twitter.com/awsgeek)
 * [AWS Well Architected](https://aws.amazon.com/architecture/well-architected/) - [@awscloud](https://twitter.com/awscloud)
 
@@ -56,6 +56,12 @@ These resources, presentations, blogs, and training have been instrumental in my
 * [CIS/SANS Top 20](https://www.sans.org/security-resources/posters/20-critical-security-controls/55/download)
 * [CWE/SANS Top 25 Most Dangerous Programming Errors](http://cwe.mitre.org/top25/)
 * [Common Vulnerability Scoring System (CVSS)](https://www.first.org/cvss/)
+
+### Conferences
+* [fwdcloudsec](https://fwdcloudsec.org/) - [@fwdcloudsec](https://twitter.com/fwdcloudsec)
+* [defcon](https://defcon.org/) - [@defcon](https://twitter.com/defcon)
+* [BlackHat](https://www.blackhat.com/) - [@BlackHatEvents](https://twitter.com/BlackHatEvents)
+* [BSides](http://www.securitybsides.com/) - Various cities
 
 ### Data Science and Analytics</h2>
 * [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) - Free Jupyter notebook environment
