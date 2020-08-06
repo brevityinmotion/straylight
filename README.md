@@ -17,6 +17,10 @@ Success in security, hacking, and puzzles all require creativity, ambition, curi
 
 Let's solve this together!
 
+
+## Learning Resources
+* [Information Security - Learning Resources](resources.md) - This is an inventory of my favorite security resources that I have leveraged across the past decade.
+
 ## Walkthroughs
 ### External IP domain reconnaissance and attack surface visualization in under 2 minutes.
 * The blog post can be accessed at https://medium.com/@brevityinmotion/external-ip-domain-reconnaissance-and-attack-surface-visualization-in-under-2-minutes-b2ab06105def?sk=45a029919647bd3214e6dd1e8526ca25. This walkthrough provides the steps to configure AWS cloud based resources to query the Forward DNS stored in the Rapid 7 Project Sonar public dataset. The output of this process can be used to supplement passive domain reconnaissance techniques. It can also be integrated as a fully automated and entirely passive process to track attack surface on a monthly basis. The corresponding source code and Jupyter notebooks are contained within this repository to replicate the capability.
@@ -37,7 +41,4 @@ Let's solve this together!
 * Watch: https://www.youtube.com/watch?v=5d2c8-e6klE 
 * Slides: [2020-Junegle-RyanElkins.pdf](presentations/2020-Junegle-RyanElkins.pdf)
 * Thank you for the opportunity @santosomar and @cedoxX! Make sure to check out and subscribe to the Red Team Village Youtube channel to watch more great presentations! 
-
-## Learning Resources
-* [Information Security - Learning Resources](resources.md) - This is an inventory of my favorite security resources that I have leveraged across the past decade.
 
