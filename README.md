@@ -33,7 +33,7 @@ Let's solve this together!
 ## Presentations
 ### Combining notebooks, datasets, and cloud for the ultimate automation factory
 * 8/6/2020 - Defcon Red Team Village - @VillageRedTeam and @defcon
-* Watch: 
+* Watch: https://www.youtube.com/watch?v=V5oHuSnZDFg
 * Slides:
 
 ### Elevating your career through scientific computing and the cloud
