@@ -15,6 +15,9 @@ These resources, presentations, blogs, and training have been instrumental in my
 * [Red Team Village](https://www.youtube.com/channel/UC8nq3PX9coMiqgKH6fw-VCQ) - Red Team - [@VillageRedTeam](https://twitter.com/VillageRedTeam) and [@santosomar](https://twitter.com/santosomar)
 * [Amazon Web Services - Re:Invent Series](https://www.youtube.com/user/AmazonWebServices) - Cloud Security - [@AWSreInvent](https://twitter.com/AWSreInvent)
 * [Black Hills Information Security](https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A) - [@BHinfoSecurity](https://twitter.com/BHinfoSecurity)
+* [SANS Institute](https://www.youtube.com/user/TheSANSInstitute) - [@SANSInstitute](https://twitter.com/SANSInstitute)
+* [Codingo](https://youtube.com/codingo) - Bug Bounty
+* [The Cyber Mentor](https://www.youtube.com/thecybermentor) - Heath Adams - Information Security - [@thecybermentor](https://twitter.com/thecybermentor)
 
 ### Some of my favorite presentations
 * Chris Nickerson - [Ted Talk - Hackers are all about curiosity, and security is just a feeling](https://www.youtube.com/watch?v=HW9hH0vlPEM) - [@indi3030](https://twitter.com/indi303)
@@ -29,7 +32,7 @@ These resources, presentations, blogs, and training have been instrumental in my
   * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org)
   * [OWASP Code Review Guide](https://www.owasp.org/images/5/53/OWASP_Code_Review_Guide_v2.pdf)
   * [OWASP Testing Guide](https://www.owasp.org/images/1/19/OTGv4.pdf)
-* [tl;dr sec](https://tldrsec.com/) - Clint Gibler - [@clintgibbler](https://twitter.com/clintgibler)
+* [tl;dr sec](https://tldrsec.com/) - Clint Gibler - [@clintgibbler](https://twitter.com/clintgibler) - Absolutely subscribe to the newsletter.
   * [What I Learned Watching All 44 AppSec Cali 2019 Talks](https://tldrsec.com/blog/appsec-cali-2019/) - One of the best AppSec reading investments that you can make.
 * [Penetration Testing Execution Standard (PTES)](http://www.pentest-standard.org)
 * Jason Haddix - Bug Bounty Hunting Methodology - [@Jhaddix](https://twitter.com/Jhaddix)
@@ -38,6 +41,8 @@ These resources, presentations, blogs, and training have been instrumental in my
   * [Bug Bounty Hunting Methodology v4](https://www.youtube.com/watch?v=p4JgIu1mceI)
 * Container Security - anything published or presented by Ian Coldwater - [@IanColdwater](https://twitter.com/IanColdwater)
 * [The Twelve-Factor App](https://12factor.net/) - Adam Wiggins - [@hirodusk](https://twitter.com/hirodusk)
+* [hakluke](https://hakluke.com/) - Luke Stephens - [@hakluke](https://twitter.com/hakluke)
+* [codingo](https://codingo.com/) - Michael Skelton - [@codingo_](https://twitter.com/codingo_)
 
 ### Cloud Security Resources
 * [Cloud Security Alliance](https://cloudsecurityalliance.org)
@@ -72,11 +77,13 @@ These resources, presentations, blogs, and training have been instrumental in my
 ### Security Architecture
 * [SABSA](https://sabsa.org/)
 
-### Detect/Respond/Forensics/Reverse Engineering
+### Detect/Respond/Forensics/Reverse Engineering/Mobile
 * [Mitre ATT&CK](https://attack.mitre.org/) - [@MITREattack](https://twitter.com/MITREattack)
 * [Malware Unicorn](https://malwareunicorn.org/) - Amanda Rousseau - [@malwareunicorn](https://twitter.com/malwareunicorn)
 * [Lenny Zeltser](https://zeltser.com/blog/) - [@lennyzeltser](https://twitter.com/lennyzeltser)
 * [Leslie Carhart - tisiphone.net](https://tisiphone.net/) - [@hacks4pancakes](https://twitter.com/hacks4pancakes)
+* [Azeria Labs](https://azeria-labs.com/) - Maria Markstedter - [@Fox0x01](https://twitter.com/Fox0x01) and [@azeria_labs](https://twitter.com/azeria_labs)
+
 
 ### Training
 * [NICE Framework](https://niccs.us-cert.gov/workforce-development/cyber-security-workforce-framework) - This is the best resource that I am aware of for explaining cyber security careers.
@@ -84,10 +91,14 @@ These resources, presentations, blogs, and training have been instrumental in my
 * [Cybrary](https://cybrary.it) - [@cybraryIT](https://twitter.com/cybraryIT)
 * [Free Azure credits for students](https://azure.microsoft.com/en-us/free/students/) - [@Azure](https://twitter.com/Azure)
 * [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/) - Training for Kali Linux - [@offsectraining](https://twitter.com/offsectraining)
-* [Pluralsight](https://www.pluralsight.com/learn) - $30/month - [@pluralsight](https://twitter.com/pluralsight)
+* [Pluralsight](https://www.pluralsight.com/learn) - [@pluralsight](https://twitter.com/pluralsight)
 * [Secure Code Warrior](https://securecodewarrior.com/) - Secure software development training - [@SecCodeWarrior](https://twitter.com/SecCodeWarrior)
 * [Hack The Box](https://www.hackthebox.eu/) - [@hackthebox_eu](https://twitter.com/hackthebox_eu)
 * [PentesterLab](https://pentesterlab.com/) - [@PentesterLab](https://twitter.com/PentesterLab)
+* [TryHackMe](https://tryhackme.com/) - [@RealTryHackMe](https://twitter.com/RealTryHackMe)
+* [flAWS.cloud](http://flaws.cloud/)
+* [flAWS2.cloud](http://flaws2.cloud/)
+* [The Cyber Mentor](https://www.thecybermentor.com/)
 
 ### General Security Topics and News
 * [Daniel Miessler - The Unsupervised Learning Newsletter](https://danielmiessler.com/newsletter/) - [@DanielMiessler](https://twitter.com/DanielMiessler)
