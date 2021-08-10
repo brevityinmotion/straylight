@@ -1,5 +1,3 @@
-
-
 # Information Security - Learning Resources
 
 These resources, presentations, blogs, and training have been instrumental in my journey to continually become a better [security practitioner](https://docs.google.com/presentation/d/1N7Csc1KfyPeMvkjbRwwvrWIrd_Q8uGjgrk1h5L97OSo/edit#slide=id.g894492b783_0_72) - [@aaronzollman](https://twitter.com/aaronzollman). If you or your content has been mentioned in this resource list, **thank you for being awesome** and to the invaluable contributions you have made to advance the industry! Additionally, I have had a handful of mentors not mentioned directly in here who have taken a chance on me through investment of your time, knowledge, and wisdom. I am forever grateful!
@@ -11,12 +9,16 @@ These resources, presentations, blogs, and training have been instrumental in my
 * [Software Security Gurus](https://www.youtube.com/channel/UChiPxn0WrGdoXs5B0icvIKA) - Software Security - [@mmadou](https://twitter.com/mmadou)
 * [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw) - Bug Bounty - [@NahamSec](https://twitter.com/NahamSec)
 * [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg) - Bug Bounty - [@stokfredrik](https://twitter.com/stokfredrik)
+* [John Hammond](https://www.youtube.com/user/RootOfTheNull) - Security - [@_johnhammond](https://twitter.com/_johnhammond)
+* [Katie Paxton-Fear](https://www.youtube.com/user/RapidBug) - Bug Bounty - [@InsiderPhD](https://twitter.com/InsiderPhD)
+* [Farah Hawa](https://www.youtube.com/c/FarahHawa) - Bug Bounty - [@Farah_Hawaa](https://twitter.com/Farah_Hawaa)
 * [TrustedSec](https://www.youtube.com/channel/UCRkiASOIDfCDJeB9xkJoMRg) - General InfoSec - [@HackingDave](https://twitter.com/HackingDave) and [@trustedsec](https://twitter.com/trustedsec)
-* [Red Team Village](https://www.youtube.com/channel/UC8nq3PX9coMiqgKH6fw-VCQ) - Red Team - [@VillageRedTeam](https://twitter.com/VillageRedTeam) and [@santosomar](https://twitter.com/santosomar)
+* [Red Team Village](https://www.youtube.com/channel/UC8nq3PX9coMiqgKH6fw-VCQ) - Red Team - [@RedTeamVillage_](https://twitter.com/RedTeamVillage_) and [@santosomar](https://twitter.com/santosomar)
+* [Recon Village](https://www.youtube.com/reconvillage) - [@ReconVillage](https://twitter.com/ReconVillage)
 * [Amazon Web Services - Re:Invent Series](https://www.youtube.com/user/AmazonWebServices) - Cloud Security - [@AWSreInvent](https://twitter.com/AWSreInvent)
 * [Black Hills Information Security](https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A) - [@BHinfoSecurity](https://twitter.com/BHinfoSecurity)
 * [SANS Institute](https://www.youtube.com/user/TheSANSInstitute) - [@SANSInstitute](https://twitter.com/SANSInstitute)
-* [Codingo](https://youtube.com/codingo) - Bug Bounty
+* [Michael Skelton](https://youtube.com/codingo) - Bug Bounty - [@codingo_](https://twitter.com/codingo_)
 * [The Cyber Mentor](https://www.youtube.com/thecybermentor) - Heath Adams - Information Security - [@thecybermentor](https://twitter.com/thecybermentor)
 
 ### Some of my favorite presentations
@@ -24,6 +26,7 @@ These resources, presentations, blogs, and training have been instrumental in my
 * Jayson Street - [Defcon 19: Steal Everything, Kill Everyone, Cause Total Financial Ruin](https://www.youtube.com/watch?v=JsVtHqICeKE) - [@jaysonstreet](https://twitter.com/jaysonstreet)
 * Sacha Faust - [BSidesSF 2018 - Six Degress of Infiltration](https://www.youtube.com/watch?v=8TV9TSNh7pA) - [@sachafaust](https://twitter.com/sachafaust)
 * Jason Haddix - [How to Shot Web (Methodology v1)](https://www.youtube.com/watch?v=-FAjxUOKbdI) - Make sure to watch the later methodologies as well - [@jhaddix](https://twitter.com/jhaddix)
+* Arkadiy Tetelman - [Data Driven Bug Bounty](https://www.youtube.com/watch?v=2TWY74MgTrc&t=1139s) - [@arkadiyt]
 
 ### Application/Software Security Resources
 * [Building Security in Maturity Model (BSIMM)](https://www.bsimm.com) - [@cigitalgem](https://twitter.com/cigitalgem)
@@ -119,6 +122,7 @@ These resources, presentations, blogs, and training have been instrumental in my
   * [Certified Cloud Security Knowledge (CCSK)](https://cloudsecurityalliance.org/education/ccsk/) - Cloud Security Alliance - [@cloudsa](https://twitter.com/cloudsa)
   * [Amazon Web Services](https://aws.amazon.com/certification/) - Security Specialty (or really any AWS, Azure, or Google Cloud certification)
 * [CISA, CRISC, CISM](https://www.isaca.org/credentialing) - ISACA - [@ISACANews](https://twitter.com/ISACANews)
+* [Practical Network Penetration Tester (PNPT)](https://certifications.tcm-sec.com/) - [@thecybermentor](@thecybermentor)
 * [Offensive Security](https://www.offensive-security.com/information-security-certifications/) - [@offsectraining](https://twitter.com/offsectraining)
 * [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) - [@ECCOUNCIL](https://twitter.com/ECCOUNCIL)
 
