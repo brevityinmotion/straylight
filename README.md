@@ -22,6 +22,7 @@ Let's solve this together!
 * [Information Security - Learning Resources](resources.md) - This is an inventory of my favorite security resources that I have leveraged across the past decade.
 
 ## Walkthroughs
+
 ### External IP domain reconnaissance and attack surface visualization in under 2 minutes.
 * The blog post can be accessed at https://medium.com/@brevityinmotion/external-ip-domain-reconnaissance-and-attack-surface-visualization-in-under-2-minutes-b2ab06105def?sk=45a029919647bd3214e6dd1e8526ca25. This walkthrough provides the steps to configure AWS cloud based resources to query the Forward DNS stored in the Rapid 7 Project Sonar public dataset. The output of this process can be used to supplement passive domain reconnaissance techniques. It can also be integrated as a fully automated and entirely passive process to track attack surface on a monthly basis. The corresponding source code and Jupyter notebooks are contained within this repository to replicate the capability.
 * The corresponding source code and Jupyter notebook utilized is located at [tools-r7sonar.ipynb](notebooks/tools-r7sonar.ipynb).
@@ -31,10 +32,16 @@ Let's solve this together!
 * The corresponding source code and Jupyter notebook utilized is located at [tools-commoncrawl.ipynb](notebooks/tools-commoncrawl.ipynb).
 
 ## Presentations
+
+### Let the bugs come to me - how to build cloud-based recon automation at scale
+* 8/7/2021 - DEF CON Recon Village - @ReconVillage and @defcon
+* Watch: https://www.youtube.com/watch?v=DvZAkG8P8m0
+* Supplemental blog: https://www.brevityinmotion.com/automated-cloud-based-recon/
+* Code: https://github.com/brevityinmotion/brevityrecon
+
 ### Combining notebooks, datasets, and cloud for the ultimate automation factory
-* 8/6/2020 - Defcon Red Team Village - @VillageRedTeam and @defcon
+* 8/6/2020 - DEF CON Red Team Village - @RedTeamVillage_ and @defcon
 * Watch: https://www.youtube.com/watch?v=V5oHuSnZDFg
-* Slides:
 
 ### Elevating your career through scientific computing and the cloud
 * 6/27/2020 - Cyber June'gle 2020 - @VillageRedTeam and @texas_cyber
