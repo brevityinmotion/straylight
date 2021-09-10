@@ -57,6 +57,32 @@ These resources, presentations, blogs, and training have been instrumental in my
 * [AWS Geek - Jerry Hargrove](https://www.awsgeek.com) - I may seriously have to print tshirts of all of your diagrams now that conferences are mostly virtual and my tshirt intake is declining. - [@awsgeek](https://twitter.com/awsgeek)
 * [AWS Well Architected](https://aws.amazon.com/architecture/well-architected/) - [@awscloud](https://twitter.com/awscloud)
 
+Additionally, there are a handful of talks, tools, and blogs that I continually revisit for ongoing learning.
+* [AWS ReadOnlyAccess: Not Even Once](https://posts.specterops.io/aws-readonlyaccess-not-even-once-ffbceb9fc908) - SpecterOps
+* [Become and IAM Policy Master in 60 Minutes of Less (SEC316-R1)](https://www.youtube.com/watch?v=YQsK4MtsELU) - Brigid Johnson - [@bjohnso5y](https://twitter.com/bjohnso5y)
+* [Advanced VPC design and new capabilities for Amazon VPC (NET305-R1)](https://www.youtube.com/watch?v=7acKgdDOOu4) - Matt Lehwess - [@mlehwess](https://twitter.com/mlehwess)
+* [Automated forensic artifact collection on AWS with Goldman Sachs](https://www.youtube.com/watch?v=W4Ih9zvuBa4) - Ryan Tick, Vaishnav Murthy, Logan Bair
+* [Investigating PrivEsc Methods in AWS](https://labs.bishopfox.com/tech-blog/privilege-escalation-in-aws) - Gerben Kleijn
+* [IAM Vulnerable - An AWS IAM Privilege Escalation Playground](https://labs.bishopfox.com/tech-blog/iam-vulnerable-an-aws-iam-privilege-escalation-playground) - Seth Art - [@sethsec](https://twitter.com/sethsec)
+* [Rhino Security Labs](https://rhinosecuritylabs.com/blog/) - [@RhinoSecurity](https://twitter.com/RhinoSecurity)
+* [Finding Azurescape - Cross-Account Container Takeover in Azure Container Instances](https://unit42.paloaltonetworks.com/azure-container-instances/) - Unit 42
+* [Last Week in AWS](https://www.lastweekinaws.com/blog/)
+
+
+Additional cloud experts to follow:
+* Aidan Steele [@__steele](https://twitter.com/__steele)
+* Leo Meyerovich [@lmeyerov](https://twitter.com/lmeyerov)
+* Forrest Brazeal [@forrestbrazeal](https://twitter.com/forrestbrazeal)
+* Jeff Barr [@jeffbarr](https://twitter.com/jeffbarr)
+* Corey Quinn [@QuinnyPig](https://twitter.com/QuinnyPig)
+* Jason Trost [@jason_trost](https://twitter.com/jason_trost)
+* Eric Johnson [@emjohn20](https://twitter.com/emjohn20)
+* Matt Fuller [@matthewdfuller](https://twitter.com/matthewdfuller)
+* Chris Farris [@jcfarris](https://twitter.com/jcfarris)
+* Ben Kehoe [@ben11kehoe](https://twitter.com/ben11kehoe)
+* Kinnaird McQuade [@kmcquade3](https://twitter.com/kmcquade3)
+* Ian Mckay [@iann0036](https://twitter.com/iann0036)
+
 ### Standards, Baselines, and Controls</h2>
 * [NIST cybersecurity framework (CSF)](https://www.nist.gov/cyberframework) - [@NIST](https://twitter.com/NIST)
 * [NIST 800-53](https://nvd.nist.gov/800-53/Rev4)
